@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://ashfaque2403.github.io/portfolio/
 
 - 📫 How to reach me **ashfaquethuyyadi600@gmail.com**
 
-- 📄 Know about my experiences [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/portfolio/)
+- 📄 Know about my experiences https://ashfaque2403.github.io/portfolio/
 
 - ⚡ Fun fact **I can make the changes in the digital world**
 
