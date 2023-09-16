@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashfaque</h1>
+<h1 align="center">Hi 👋, I'm Ashfaque Thuyyadi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Social Network**
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/we/)
+- 👨‍💻 All of my projects are available at [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/portfolio/)
 
 - 📫 How to reach me **ashfaquethuyyadi600@gmail.com**
 
-- 📄 Know about my experiences [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/we/)
+- 📄 Know about my experiences [https://ashfaque2403.github.io/we/](https://ashfaque2403.github.io/portfolio/)
 
 - ⚡ Fun fact **I can make the changes in the digital world**
 
