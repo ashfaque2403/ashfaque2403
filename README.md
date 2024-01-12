@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashfaque Thuyyadi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Social Network**
+- 🔭 I’m currently working on **Hostel Management System**
 
 - 🌱 I’m currently learning **node.js**
 
